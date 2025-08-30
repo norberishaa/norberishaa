@@ -1,3 +1,3 @@
-- 👋 Hi, I’m __@norberishaa__
-- 👀 I’m interested in CyberSec & Software Dev
-- 🌱 I’m currently learning Python  & CompTIA A+ 
+- Hi, I’m __@norberishaa__
+- Computer Science & Engineering Student
+- Invested in Cyber Security
