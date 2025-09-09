@@ -7,6 +7,3 @@
 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norberishaa&theme=github_dark&layout=pie)
-
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=norberishaa&theme=github-dark)
