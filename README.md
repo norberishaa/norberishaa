@@ -3,7 +3,7 @@
 - Invested in Cyber Security & Software Development
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=norberishaa&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=norberishaa&theme=tokyonight&hide_border=true&border_radius=20&mode=weekly)](https://git.io/streak-stats)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,python,html,css,java,linux)](https://skillicons.dev)
