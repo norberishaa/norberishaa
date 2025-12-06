@@ -3,4 +3,4 @@
 - Invested in Cyber Security & Software Development
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=python,bash,zsh,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,django,html,css)](https://skillicons.dev)
